@@ -1,0 +1,40 @@
+# Site settings
+title: pontus-persson.se
+description: 'Pontus Persson - Programmer, Nerd, Beer drinker'
+url: 'https://pontus-persson.se'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Pontus Persson'
+  email: persson@flaskpost.org
+#  twitter_username: joshgerdes
+#  facebook_username: joshgerdes
+  github_username:  PontusPersson
+  linkedin_username:  pontus-persson
+  pgp_link: 'https://pgp.mit.edu/pks/lookup?op=get&search=0xDE4FDA06983BA9B7'
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
