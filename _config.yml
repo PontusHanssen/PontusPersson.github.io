@@ -15,7 +15,7 @@ author:
   linkedin_username:  pontus-persson
   pgp_link: 'https://pgp.mit.edu/pks/lookup?op=get&search=0xDE4FDA06983BA9B7'
 #  cv_link: 'http://pontus-persson.se/CV/'
-  cv_link: 'cv.pdf'
+  cv_link: '/cv.pdf'
 
 defaults:
   -
