@@ -7,19 +7,30 @@ tags: [Personal, Brew]
 This sunday I tried a new recipie for an APA. The whole brew process went wery
 smooth, my new cooling spiral helped me cut 2-3 hours!
 
-* Extra Pale Ale Malt
-  * 6kg
-  * 75min at 65⁰C
-* 60min boil
-  * 15g Warrior at beginning
-  * 15g Citra 15min left
-  * 15g Amarillo 15min left
-  * 30g Citra at end
-  * 30g Amarillo at end
-* American Ale - Wyeast 1056
+### Recipe
+
+#### Extra Pale Ale Malt
+* 6kg
+* 75min at 65⁰C
+
+#### 60min boil
+
+* 15g Warrior at beginning
+* 15g Citra 15min left
+* 15g Amarillo 15min left
+* 30g Citra at end
+* 30g Amarillo at end
+
+#### American Ale - Wyeast 1056
+
 * Dry hopps
-  * 55g Citra
-  * 55g Amarillo
-  * 30g Warrior
+* 55g Citra
+* 55g Amarillo
+* 30g Warrior
+
+#### Gravity
+
+* OG: 1066
+* FG: T.B.A.
 
 :wq
