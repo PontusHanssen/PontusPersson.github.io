@@ -7,7 +7,5 @@ tags: [Personal]
 Just finished setting up my personal web site!
 Everything seems to be working alright.
 
-:wq
-
 ---
 /P
