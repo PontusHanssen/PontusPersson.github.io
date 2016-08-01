@@ -7,7 +7,7 @@ tags: [Personal, Brew]
 This sunday I tried a new recipie for an APA. The whole brew process went wery
 smooth, my new cooling spiral helped me cut 2-3 hours!
 
-### Recipe
+### Recipe (19l)
 
 #### Extra Pale Ale Malt
 * 6kg
@@ -24,8 +24,8 @@ smooth, my new cooling spiral helped me cut 2-3 hours!
 #### American Ale - Wyeast 1056
 
 * Dry hopps
-* 55g Citra
-* 55g Amarillo
+* 40g Citra
+* 40g Amarillo
 * 30g Warrior
 
 #### Gravity
