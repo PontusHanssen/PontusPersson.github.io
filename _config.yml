@@ -3,8 +3,8 @@ title: pontus-persson.se
 description: 'Pontus Persson - Programmer, Nerd, Beer enthusiast'
 url: 'https://pontus-persson.se'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+google_analytics: 'UA-83373032-1'
+disqus_shortname: 'pontus-persson-se'
 
 author:
   name: 'Pontus Persson'
