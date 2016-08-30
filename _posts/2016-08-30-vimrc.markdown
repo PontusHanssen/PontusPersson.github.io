@@ -1,0 +1,11 @@
+---
+title:  "My vimrc"
+date:   2016-08-29 10:01:23
+categories: []
+tags: [coding]
+---
+Finally got around to redoing my `.vimrc`. I'm very satisfied with the result, different tab sizes for different types, good plugins and everything!
+My dotfiles including the vimrc are available on [github](https://github.com/PontusPersson/dotfiles).
+
+---
+/P
