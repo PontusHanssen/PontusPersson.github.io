@@ -1,0 +1,24 @@
+---
+title:  "East Sweden Hack 2016"
+date:   2016-09-08 18:01:23
+categories: []
+tags: [coding, personal]
+---
+This weekend I participated in East Sweden Hack with three friends. After a
+weekend of hacking we had a finished prototype. Our idea was a real time driver
+support system that helps drivers drive more safe and eco-friendly. It also
+featured gamification elements to encourage drivers to compete with their
+friends for the title of being the best driver.
+
+On Sunday we a got a fantastic surprise, we had the best project in the category
+"Energy and Sustainability"!
+
+![Team Photo](/images/esh16.jpg "Award Ceremony")
+
+And as a big bonus I won the teams Raspberry Pi 3 by throwing a die! :-D
+
+Our prototype is available at [curbit.xyz](http://curbit.xyz), and the code at github [PontusPersson/esh](https://github.com/PontusPersson/esh).
+
+
+---
+/P

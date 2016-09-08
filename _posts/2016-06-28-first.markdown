@@ -2,7 +2,7 @@
 title:  "First Post"
 date:   2016-06-28 18:01:23
 categories: []
-tags: [Personal]
+tags: [personal]
 ---
 Just finished setting up my personal web site!
 Everything seems to be working alright.
